@@ -1,2 +1,2 @@
 # mern-hello-world
-This is a starter hello world app built on mern
+Built this hello-world mern app to explain backend and frontend.
